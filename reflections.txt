@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* Came across different tags like <sup>, <hr>, <s>
+
+* Working on basic tags like <p>,<a> and some others has been easy.
+
+* I am still skeptical about my tag indentations. Also I was wondering if there is any tag that could give the text bold and italic format instead of using 2 different tags(<em>,<strong>).
+Still working on that….
+
+* Most of the time I faced difficulty in remembering syntax of various tags. I usually do the Cmmd+F thing in MDN reference document when I had any problem, but now due to practice   I don’t need to do that often 
